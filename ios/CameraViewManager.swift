@@ -11,7 +11,7 @@ import Foundation
 @objc(CameraViewManager)
 class CameraViewManager : RCTViewManager {
   
-  override func view() -> UIView! {
+  override func view() -> UIView {
     return CameraView();
   }
   

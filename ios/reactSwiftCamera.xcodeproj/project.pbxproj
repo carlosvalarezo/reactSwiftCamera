@@ -41,6 +41,7 @@
 		C025342A209246AE00BE1A5A /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0253429209246AE00BE1A5A /* CameraView.swift */; };
 		C025342C209246FD00BE1A5A /* CameraViewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C025342B209246FD00BE1A5A /* CameraViewManager.swift */; };
 		C025342E209247B200BE1A5A /* CameraViewModule.m in Sources */ = {isa = PBXBuildFile; fileRef = C025342D209247B200BE1A5A /* CameraViewModule.m */; };
+		C025343020927E2200BE1A5A /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C025342F20927E2200BE1A5A /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -350,6 +351,7 @@
 		C0253429209246AE00BE1A5A /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
 		C025342B209246FD00BE1A5A /* CameraViewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewManager.swift; sourceTree = "<group>"; };
 		C025342D209247B200BE1A5A /* CameraViewModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CameraViewModule.m; sourceTree = "<group>"; };
+		C025342F20927E2200BE1A5A /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -500,6 +502,7 @@
 				C0253428209246AE00BE1A5A /* reactSwiftCamera-Bridging-Header.h */,
 				C025342B209246FD00BE1A5A /* CameraViewManager.swift */,
 				C025342D209247B200BE1A5A /* CameraViewModule.m */,
+				C025342F20927E2200BE1A5A /* CameraViewController.swift */,
 			);
 			name = reactSwiftCamera;
 			sourceTree = "<group>";
@@ -1135,6 +1138,7 @@
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
 				C025342E209247B200BE1A5A /* CameraViewModule.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				C025343020927E2200BE1A5A /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
