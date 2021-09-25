@@ -1,4 +1,4 @@
-# react-Swift-Camera
+# react-native-swift-video-recording
 
 This repo consists in a couple of React Native components that interact with Swift code to record video (image and video) in the device and returns to React Native UI without errors.
 
